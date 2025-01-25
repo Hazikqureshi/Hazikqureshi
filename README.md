@@ -1,12 +1,10 @@
+# 💫 About Me:
 - 👋 Hi, I’m @Hazikqureshi
 - 👀 I’m interested in creating the best web designs using react.js
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on different designs
 - 📫 contact me on github
 - ⚡ Fun fact: Dark humor
-# 💫 About Me:
-🔭 I’m currently working on 3D Portfolio<br>🤝 I’m looking for help with React.Js<br>🌱 I’m currently learning React.Js<br>💬 Ask me about Next.js<br>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PtxA3S4K) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hazik.qureshi.188/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hazik.qureshi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haziq-qureshi/) 
